@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="My_Alone_Study/My_Alone_Study.vcxproj" />
+  <Project Path="My_Alone_Study/My_Alone_Study.vcxproj" Id="9394799a-d689-4613-acbc-4ed6c366a16b" />
 </Solution>
