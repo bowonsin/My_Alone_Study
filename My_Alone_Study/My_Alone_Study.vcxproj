@@ -128,10 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Potion.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ammor.h" />
     <ClInclude Include="Equipment.h" />
+    <ClInclude Include="HealPotion.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="PotionManager.h" />
+    <ClInclude Include="PotionStock.h" />
     <ClInclude Include="Swrord.h" />
     <ClInclude Include="weapon.h" />
   </ItemGroup>
